@@ -25,6 +25,21 @@ profile_picture:
 </h1>  
 
   <ul>
+          <li><b>Byzantine-resilient decentralized network learning. </b></li>
+  <p> 
+<b> Yaohong Yang </b> and Lei Wang (2023).  <i> In preparation. </i>
+ </p>  
+  
+          <li><b>Online Regularized Matrix Regression with Streaming Data. </b></li>
+  <p> 
+<b> Yaohong Yang</b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
+ </p> 
+  
+        <li><b>Communication-efficient estimation of quantile matrix regression for massive datasets. </b></li>
+  <p> 
+<b> Yaohong Yang</b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
+ </p> 
+  
 <li><b>Communication-efficient sparse composite quantile regression for distributed data.</b></li>
   <p> 
     <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Metrika, 86, 261–283. </i>
@@ -49,19 +64,9 @@ profile_picture:
     <a href="https://www.tandfonline.com/doi/abs/10.1080/02331888.2022.2065677">[published version]</a>
   </p> 
   
-      <li><b>Communication-efficient estimation of quantile matrix regression for massive datasets. </b></li>
-  <p> 
-<b> Yaohong Yang</b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
- </p> 
+
   
-        <li><b>Online Regularized Matrix Regression with Streaming Data. </b></li>
-  <p> 
-<b> Yaohong Yang</b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
- </p> 
-  
-        <li><b>Byzantine-resilient decentralized network learning. </b></li>
-  <p> 
-<b> Yaohong Yang </b> and Lei Wang (2023).  <i> In preparation. </i>
- </p>  
+
+
 </ul>
 
