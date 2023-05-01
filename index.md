@@ -28,3 +28,6 @@ profile_picture:
 <li><b>Communication-efficient sparse composite quantile regression for
 distributed data.</b></li>
 </ul>
+<p> 
+  Yaohong Yang and Lei Wang (2022)
+ </p> 
