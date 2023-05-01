@@ -29,6 +29,9 @@ profile_picture:
   <p> 
     <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Metrika, 86, 261–283. </i>
  </p> 
+  <p>
+    <a href="https://link.springer.com/article/10.1007/s00184-022-00868-z">[published version]</a>
+  </p> 
   
   <li><b>Generalised regression estimators for average treatment effect with multicollinearity in high-dimensional covariates.</b></li>
   <p> 
