@@ -25,6 +25,6 @@ profile_picture:
 </h1>  
 
   <ul>
-<li>Communication-efficient sparse composite quantile regression for
-distributed data.</li>
+<li><b>Communication-efficient sparse composite quantile regression for
+distributed data.</b></li>
 </ul>
