@@ -27,27 +27,27 @@ profile_picture:
   <ul>
 <li><b>Communication-efficient sparse composite quantile regression for distributed data.</b></li>
   <p> 
-    <b> Yaohong Yang </b> and Lei Wang (2022).  <i> Metrika, 86, 261–283. </i>
+    <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Metrika, 86, 261–283. </i>
  </p> 
   
   <li><b>Generalised regression estimators for average treatment effect with multicollinearity in high-dimensional covariates.</b></li>
   <p> 
-   Xiaohong He, <b> Yaohong Yang </b> and Lei Wang (2022).  <i> Journal of Nonparametric Statistics, 34(2), 407-427 </i>
+   Xiaohong He, <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Journal of Nonparametric Statistics, 34(2), 407-427 </i>
  </p> 
   
     <li><b>Dimension-reduced empirical likelihood estimation and inference for M-estimators with nonignorable nonresponse. </b></li>
   <p> 
-   Siyu Sun, <b> Yaohong Yang </b> and Lei Wang (2022).  <i> Statistics, 56(2), 243-270. </i>
+   Siyu Sun, <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Statistics, 56(2), 243-270. </i>
  </p> 
   
       <li><b>Communication-efficient estimation of quantile matrix regression for massive datasets. </b></li>
   <p> 
-<b> Yaohong Yang </b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
+<b> Yaohong Yang</b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
  </p> 
   
         <li><b>Online Regularized Matrix Regression with Streaming Data. </b></li>
   <p> 
-<b> Yaohong Yang </b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
+<b> Yaohong Yang</b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
  </p> 
   
         <li><b>Byzantine-resilient decentralized network learning. </b></li>
