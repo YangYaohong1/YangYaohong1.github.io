@@ -59,8 +59,7 @@ profile_picture:
     <li><b>Dimension-reduced empirical likelihood estimation and inference for M-estimators with nonignorable nonresponse. </b></li>
   <p> 
    Siyu Sun, <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Statistics, 56(2), 243-270. </i>
- </p> 
-     <p>
+    
     <a href="https://www.tandfonline.com/doi/abs/10.1080/02331888.2022.2065677">[published version]</a>
   </p> 
   
