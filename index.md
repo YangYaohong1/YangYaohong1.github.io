@@ -37,6 +37,9 @@ profile_picture:
   <p> 
    Xiaohong He, <b> Yaohong Yang</b> and Lei Wang (2022).  <i> Journal of Nonparametric Statistics, 34(2), 407-427 </i>
  </p> 
+   <p>
+    <a href="https://www.tandfonline.com/doi/abs/10.1080/10485252.2022.2061483">[published version]</a>
+  </p> 
   
     <li><b>Dimension-reduced empirical likelihood estimation and inference for M-estimators with nonignorable nonresponse. </b></li>
   <p> 
