@@ -25,8 +25,7 @@ profile_picture:
 </h1>  
 
   <ul>
-<li><b>Communication-efficient sparse composite quantile regression for
-distributed data.</b></li>
+<li><b>Communication-efficient sparse composite quantile regression for distributed data.</b></li>
   <p> 
     <b> Yaohong Yang </b> and Lei Wang (2022).  <i> Metrika, 86, 261–283. </i>
  </p> 
