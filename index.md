@@ -19,7 +19,7 @@ profile_picture:
   I got my bachelor’s degree in Statistics at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2021. During my bachelor’s study, I exchanged at <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a> in 2019. 
 </p>
 
-<a href=/assets/img/profile-pic.jpg>cv</a>
+
 
 <h1>
   Papers
