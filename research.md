@@ -13,7 +13,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Furtermore, I considerd the matrix regression and two pieces of work about distributed quantile matrix regression and online matrix gression are conducted.
+    description: Furtermore, I considerd the matrix regression and two pieces of work about distributed quantile matrix regression and online matrix gression are conducted. 
      
   - title: My Interest 3
     image:
