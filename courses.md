@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Research
-slug: /blog
+layout: courses
+title: Courses
+slug: /courses
 ---
 
 <p> Below lists some of my courses. </p>
