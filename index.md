@@ -20,13 +20,13 @@ profile_picture:
 </p> --> 
 
 
-<h3>
+<h2>
 Education
-</h3>  
+</h2>  
   <ul>
-    <li> Sep. 2021-Jun. 2024: M.Sc. in Statistics at Nankai University (expected). </li>
-    <li> Sep. 2019-Jan. 2020: Visiting Student in Statistics at National Sun Yat-sen University. </li>
-    <li> Sep. 2017-Jun. 2021: B.Sc. in Statistics at Northwestern Polytechnical University. </li>
+    <li> Sep. 2021 - Jun. 2024: M.Sc. in Statistics at Nankai University (expected). </li>
+    <li> Sep. 2019 - Jan. 2020: Visiting Student at National Sun Yat-sen University. </li>
+    <li> Sep. 2017 - Jun. 2021: B.Sc. in Statistics at Northwestern Polytechnical University. </li>
   </ul>
 
 
