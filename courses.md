@@ -1,5 +1,5 @@
 ---
-layout: courses
+layout: blog
 title: Courses
 slug: /courses
 ---
