@@ -13,7 +13,7 @@ theoretical results, Jordan et al. (2019) required that the loss functions are s
 and have at least second-order derivatives, which limits its scope of application. For
 example, in some studies about the low weight in children growth, high expenses in
 insurance and so on, researchers are interested in predicting quantiles with nonsmooth
-quantile loss functions. Second, since distributed data are always collected from different sources with different locations and times, the homoscedasticity assumption is
+quantile loss functions. Second, since distributed data are always collected from different sources with different locations and times, the homoscedasticity assumption is
 often not valid such that the ordinary M-estimator does not perform well when the
 error distribution is heavily skewed or data have outliers
   - title: My Interest 2
