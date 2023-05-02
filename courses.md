@@ -6,7 +6,7 @@ slug: /courses
 
 <p> Below lists some of my courses. </p>
 
-<h1>Graduate Courses at Nankai University </h1>
+<h2>Graduate Courses at Nankai University </h2>
 <p>
   <ul>
   <li>Statistical Inference in High-Dimensional Data: 90</li>
@@ -20,7 +20,7 @@ slug: /courses
 </p>  
 
 
-<h1> Courses at National Sun Yat-sen University </h1>
+<h2> Courses at National Sun Yat-sen University </h2>
 <p>
   <ul>
   <li>Mathematical Statistics: A</li>
@@ -32,7 +32,7 @@ slug: /courses
 </p>
 
 
-<h1>Undergraduate Courses at Northwestern Polytechnical University </h1>
+<h2>Undergraduate Courses at Northwestern Polytechnical University </h2>
 <p>
   <ul>
   <li>Introduction to Statistical Machine Learning: 90</li>     
