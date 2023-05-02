@@ -15,16 +15,24 @@ profile_picture:
 </p>
 
 
-<p>
+<!-- <p>
   I got my bachelor’s degree in Statistics at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a> in 2021. During my bachelor’s study, I exchanged at <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a> in 2019. 
-</p>
+</p> -->
 
 
+<h3>
+Education
+</h3>  
+  <ul>
+    <li> Sep. 2021-Jun. 2024: M.Sc. in Statistics at Nankai University (expected). </li>
+    <li> Sep. 2019-Jan. 2020: Visiting Student in Statistics at National Sun Yat-sen University. </li>
+    <li> Sep. 2017-Jun. 2021: B.Sc. in Statistics at Northwestern Polytechnical University. </li>
+  </ul>
 
-<h1>
+
+<h2>
   Papers
-</h1>  
-
+</h2>  
 <ul>
   <li><b>
     Byzantine-resilient decentralized network learning. 
