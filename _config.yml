@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
-    - name: Courses
+    - name: Blog
+    - name: W
 
 footer:
   show_powered_by: true
