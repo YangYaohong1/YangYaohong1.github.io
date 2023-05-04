@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi, I am a master student in the <a href="https://stat.nankai.edu.cn/">School of Statistics and Data Science</a> at <a href="https://www.nankai.edu.cn/">Nankai University</a>. I am supervised by Lei Wang. My research interest is distributed system. I am constantly passionate about learning and discovering new things. In particular, I am exploring the following topics:
+  Hi, I am a master student in the <a href="https://stat.nankai.edu.cn/">School of Statistics and Data Science</a> at <a href="https://www.nankai.edu.cn/">Nankai University</a>. I am supervised by Lei Wang. My research interest is theory of distributed system. I am constantly passionate about learning and discovering new things. In particular, I am exploring the following topics:
   <ul>
     <li>federated learning</li>
     <li>Byzantine-robust</li>
