@@ -20,6 +20,6 @@ items:
     description: Now, I am interested in federated learning with Byzantine attacks. Federated learning is highly related to distributed learning and data are often distributed across a large number of clients (e.g. mobile devices). Based on Decentralized Gradient Descent (DGD), Wu et al. proposed <a href="https://arxiv.org/pdf/2205.08364.pdf">Network Gradient Desent (NGD)</a>, however, how can NGD be extended to situations with Byzantine attacks is under inverstigation.
 ---
 
-Here are my research experience.
+Here are my research experiences.
 <br />
 <br />
