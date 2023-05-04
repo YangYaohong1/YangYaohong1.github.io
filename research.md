@@ -15,7 +15,7 @@ items:
     description: Our motivating example is the <a href="https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data"> Beijing Air Quality data</a>. It contains hourly air pollutants data from 12 nationally controlled air-quality monitoring sites in Beijing from March 1, 2013 to February 28, 2017 and includes the measurements as a 24 × 6 matrix-valued predictor, which is the daily observation (24 hourly measurements) of eight variables - SO3, NO2, CO, O3, TEMP (temperature), PRES (pressure), DEWP (dew point temperature) and WSPM (wind speed). The response is the daily aggregated count of PM2.5. There are two pieces of work that we did based on these characteristics - <b>distributed matrix regression and online update matrix regression. Both works do not require communicaiton/storage of original data but only some summary statistics</b>.  
   - title: My Interest 3
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/p3.jpg
       alt: sand
     description: Now, I am interested in federated learning with Byzantine attacks. Federated learning is highly related to distributed learning, where data are often distributed across a large number of clients (e.g. mobile devices). Based on Decentralized Gradient Descent (DGD), Wu et al. proposed <a href="https://arxiv.org/pdf/2205.08364.pdf">Network Gradient Desent (NGD)</a>, <b>however, how to extend NGD to the Byzantine attack scenario is under study</b>.
 ---
