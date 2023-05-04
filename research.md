@@ -5,7 +5,7 @@ slug: /research
 items:
   - title: My Interest 1
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/p1.png
       alt: water
     description: Inspired by <a href="https://www.researchgate.net/profile/Michael-Jordan-3/publication/303521286_Communication-efficient_distributed_statistical_learning/links/57d2689208ae5f03b48b61f8/Communication-efficient-distributed-statistical-learning.pdf">Michael Jordan and others' work about distributed statistical learning </a>, I started research on distributed learning. Jordan et al. replaced the global likelihood function by communication-efficient surrogate likelihood (CSL). However, they required that the loss functions are smooth and have at least second-order derivatives, which limits its scope of application. For example, in some studies about high expenses in insurance, researchers are interested in predicting quantiles with nonsmooth quantile loss functions. So <b>we investigated a communication-efficient high-dimensional CQR estimation for distributed data</b>. 
   - title: My Interest 2
