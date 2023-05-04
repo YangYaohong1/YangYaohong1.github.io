@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Our motivating example is the <a href="https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data"> Beijing Air Quality data</a>. It contains hourly air pollutants data from 12 nationally controlled air-quality monitoring sites in Beijing from March 1, 2013 to February 28, 2017 and includes the measurements as a 24 * 6 matrix-valued predictor, which is the daily observation (24 hourly measurements) of eight variables: 
+    description: Our motivating example is the <a href="https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data"> Beijing Air Quality data</a>. It contains hourly air pollutants data from 12 nationally controlled air-quality monitoring sites in Beijing from March 1, 2013 to February 28, 2017 and includes the 
   - title: My Interest 3
     image:
       src: /assets/img/work/sand.png
