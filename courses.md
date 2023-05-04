@@ -4,7 +4,7 @@ title: Courses
 slug: /courses
 ---
 
-<p> Below lists some of my courses. </p>
+<p> Some of the courses I've taken are listed below. </p>
 
 <h3>Graduate Courses at Nankai University </h3>
 <p>
