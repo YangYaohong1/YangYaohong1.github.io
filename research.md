@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/p2.jpg
       alt: sand
-    description: Our motivating example is the <a href="https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data"> Beijing Air Quality data</a>. It contains hourly air pollutants data from 12 air-quality monitoring sites in Beijing from March 1, 2013 to February 28, 2017 and includes the 24 × 8 matrix-valued predictor, which is the daily observation (24 hourly measurements) of 8 variables. We have completed two works based on the dataset- <b>distributed matrix regression and online update matrix regression. Both works do not require communicaiton/storage of original data but only some summary statistics are needed</b>.  
+    description: Our motivating example is the <a href="https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data"> Beijing Air Quality data</a>. It contains hourly air pollutants data from 12 air-quality monitoring sites in Beijing from March 1, 2013 to February 28, 2017 and includes the 24 × 8 matrix-valued predictor, which is the daily observation (24 hourly measurements) of 8 variables. We have completed two works based on the dataset- <b>distributed matrix regression and online update matrix regression. Both models do not require communicaiton/storage of original data but only some summary statistics are needed</b>.  
   - title: My Interest 3
     image:
       src: /assets/img/work/p3.jpg
