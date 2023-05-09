@@ -60,7 +60,6 @@ Education
   <p> 
     <b> Yaohong Yang</b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
   </p> 
-   </p> 
      <p>
     <a href="https://maipdf.com/doc/d12500194418@pdf">[manuscript]</a>
   </p> 
