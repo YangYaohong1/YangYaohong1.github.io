@@ -40,6 +40,9 @@ Education
   <p> 
     <b> Yaohong Yang </b> and Lei Wang (2023).  <i> In preparation. </i>
   </p>  
+   <p>
+    <a href="https://maipdf.com/doc/d18296193754@pdf">[manuscript]</a>
+  </p> 
   
   <li><b>
     Online Regularized Matrix Regression with Streaming Data. 
@@ -47,12 +50,19 @@ Education
   <p> 
     <b> Yaohong Yang</b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
   </p> 
+     <p>
+    <a href="https://maipdf.com/doc/d14484191968@pdf">[manuscript]</a>
+  </p> 
   
   <li><b>
     Communication-efficient estimation of quantile matrix regression for massive datasets. 
   </b></li>
   <p> 
     <b> Yaohong Yang</b>, Jiamin Liu, Lei Wang, Rui Li and Heng Lian (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
+  </p> 
+   </p> 
+     <p>
+    <a href="https://maipdf.com/doc/d12500194418@pdf">[manuscript]</a>
   </p> 
   
   <li><b>
