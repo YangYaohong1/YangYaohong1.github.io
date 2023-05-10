@@ -24,9 +24,9 @@ profile_picture:
 Education
 </h2>  
   <ul>
-    <li> Sep. 2021 - Jun. 2024: M.Sc. in Statistics at  <a href="https://www.nankai.edu.cn/">Nankai University</a>. </li>
-    <li> Sep. 2019 - Jan. 2020: Visiting Student at <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a>. </li>
-    <li> Sep. 2017 - Jun. 2021: B.Sc. in Statistics at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a> </li>
+    <li> Sep. 2021 - Jun. 2024: M.Sc. in Statistics at  <a href="https://www.nankai.edu.cn/">Nankai University</a>, Tianjin China. </li>
+    <li> Sep. 2019 - Jan. 2020: Visiting Student at <a href="https://www.nsysu.edu.tw/">National Sun Yat-sen University</a>, Taiwan China. </li>
+    <li> Sep. 2017 - Jun. 2021: B.Sc. in Statistics at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a>, Xian China. </li>
   </ul>
 
 
