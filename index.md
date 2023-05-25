@@ -41,7 +41,7 @@ Education
     <b> Yaohong Yang </b> and Lei Wang (2023).  <i> In preparation. </i>
   </p>  
    <p>
-    <a href="https://maipdf.com/doc/d18296193754@pdf">[manuscript]</a>
+    <a href="https://maipdf.com/est/d14105861467@pdf">[manuscript]</a>
   </p> 
   
   <li><b>
