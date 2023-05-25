@@ -51,7 +51,7 @@ Education
     <b> Yaohong Yang</b>, Weihua Zhao and Lei Wang (2023).  <i> Computational Statistics and Data Analysis. Under review. </i>
   </p> 
      <p>
-    <a href="https://maipdf.com/doc/d14484191968@pdf">[manuscript]</a>
+    <a https://maipdf.com/est/d19258862725@pdf">[manuscript]</a>
   </p> 
   
   <li><b>
