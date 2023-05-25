@@ -4,7 +4,7 @@ title: Courses
 slug: /courses
 ---
 
-<p> There are transcripts of <a href = 'https://maipdf.com/est/d16513841878@pdf'>undergraduate studies</a>, <a href = 'https://maipdf.com/est/d13580843472@pdf'>graduate studies</a> and <a href = 'https://maipdf.com/doc/d18518049676@pdf'>exchange program studies</a>. Some of the courses I've taken are listed below. </p>
+<p> There are transcripts of <a href = 'https://maipdf.com/est/d16513841878@pdf'>undergraduate studies</a>, <a href = 'https://maipdf.com/est/d13580843472@pdf'>graduate studies</a> and <a href = 'https://maipdf.com/est/d11637857497@pdf'>exchange program studies</a>. Some of the courses I've taken are listed below. </p>
 
 <h3>Graduate Courses at Nankai University </h3>
 <p>
