@@ -19,10 +19,10 @@ header:
 
 footer:
   show_powered_by: true
-   contact:
-     - name: Email
-       value: yaohongyang@mail.nankai.edu.cn
-       link: mailto:yaohongyang@mail.nankai.edu.cn
+  contact:
+    - name: Email
+      value: yaohongyang@mail.nankai.edu.cn
+      link: mailto:yaohongyang@mail.nankai.edu.cn
     - name: WeChat
       value: -_-Mamihlapinatapai
       link: "#"
