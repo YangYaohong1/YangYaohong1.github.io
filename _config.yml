@@ -19,7 +19,7 @@ header:
 
 footer:
   show_powered_by: true
-   About me:
+   contact:
      - name: Email
        value: yaohongyang@mail.nankai.edu.cn
        link: mailto:yaohongyang@mail.nankai.edu.cn
