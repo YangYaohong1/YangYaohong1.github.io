@@ -39,7 +39,7 @@ footer:
 #     - name: Dribbble
 #       link: https://dribbble.com/YourDribbbleUsername
     - name: CV
-      link: /feed.xml
+      link: https://maipdf.com/est/d17721274756@pdf
 
 # Build settings
 markdown: kramdown
