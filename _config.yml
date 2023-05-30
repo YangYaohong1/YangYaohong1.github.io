@@ -23,22 +23,22 @@ footer:
     - name: Email
       value: yaohongyang@mail.nankai.edu.cn
       link: mailto:yaohongyang@mail.nankai.edu.cn
-    - name: WeChat
-      value: -_-Mamihlapinatapai
-      link: "#"
-  follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
+#     - name: WeChat
+#       value: -_-Mamihlapinatapai
+#       link: "#"
+  about me:
+#     - name: Twitter
+#       link: http://twitter.com/YourTwitterUsername
+#       username: "@YourTwitterUsername"
+#     - name: Facebook
+#       link: http://facebook.com/YourFacebookUsername
+#     - name: LinkedIn
+#       link: http://linkedin.com/in/YourLinkedInUsername
+#     - name: GitHub
+#       link: http://github.com/YourGitHubUsername
+#     - name: Dribbble
+#       link: https://dribbble.com/YourDribbbleUsername
+    - name: CV
       link: /feed.xml
 
 # Build settings
