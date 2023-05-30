@@ -33,16 +33,16 @@
           {% for follow in site.footer.follow %}
             <div class="social-link">
 
-              {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
-              <img
+              {% assign me_icon_path = "/assets/img/icons/" | append: me.name | downcase | append: ".png" | absolute_url %}
+<!--               <img
                 src="{{ follow_icon_path }}"
                 alt="{{ follow.name | downcase }}"
-              />
-              <a href="{{ follow.link }}">
-                {% if follow.value and follow.value != "" and follow.value != nil %}
-                  {{ follow.value }}
+              /> -->
+              <a href="{{ me.link }}">
+                {% if me.value and me.value != "" and me.value != nil %}
+                  {{ me.value }}
                 {% else %}
-                  {{ follow.name }}
+                  {{ me.name }}
                 {% endif %}
               </a>
             </div>
